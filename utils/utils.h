@@ -1,7 +1,8 @@
 #ifndef __utils_h__
 #define __utils_h__
 
-#include <exception>
+#include <string>
+#include <stdexcept>
 #include <typeinfo>
 #include <cxxabi.h>
 
